@@ -14,3 +14,10 @@ Following successful integration, users were redirected to the Facebook Page Int
 
 ![helpdesk-login](https://github.com/Shreyansh0843/Facebook-Helpdesk-Application/assets/89373266/8035fc6e-ea12-4d17-8260-de3634842d7b)
 
+## How to setup
+<ul>
+  <li>First, download all the files to your local computer and navigate to the directory using the 'cd' command in your terminal. </li>
+  <li>Next, use 'nodemon' to run the 'index.js' file. Your website will be hosted on your local server at port 4000.</li>
+  <li>You can access it through your browser by typing 'localhost:4000'. Your entire website will now be accessible.</li>
+</ul>
+
