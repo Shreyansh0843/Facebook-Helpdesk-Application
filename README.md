@@ -7,3 +7,6 @@ The Facebook Helpdesk application is a web-based platform designed to assist adm
 Our web application journey began with the creation of sleek and intuitive account and login pages, featuring a blue background reminiscent of Facebook's theme. Users could input their credentials and choose to remember them, with backend logic ensuring seamless storage in our database and guiding users to the login page in case of duplicate credentials.
 A standout feature of our application was its seamless integration with Facebook pages, showcased through a dedicated "Facebook Page Integration" page. Here, users could connect their Facebook chatbox with our application via an intuitive OAuth flow, enhancing user engagement and experience.
 Following successful integration, users were redirected to the Facebook Page Integration Page, featuring options to disconnect the integrated Facebook page and access the Agent Screen Page. The latter served as a comprehensive interface for managing conversations and replying to messages efficiently, ensuring prompt and effective customer support.
+
+![heldesk-account](https://github.com/Shreyansh0843/Facebook-Helpdesk-Application/assets/89373266/d41e62a1-a26d-42e4-96d0-1e819c014319)
+
